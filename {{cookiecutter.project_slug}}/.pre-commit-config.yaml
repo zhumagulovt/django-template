@@ -30,6 +30,8 @@ repos:
             drf_yasg,
             # djangorestframework-simplejwt,
             django-filter,
+            drf-spectacular,
+            django-debug-toolbar
           ]
   - repo: https://github.com/timothycrosley/isort
     rev: 5.12.0
