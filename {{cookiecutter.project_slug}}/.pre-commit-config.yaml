@@ -31,7 +31,8 @@ repos:
             # djangorestframework-simplejwt,
             django-filter,
             drf-spectacular,
-            django-debug-toolbar
+            django-debug-toolbar,
+            django-cors-headers
           ]
   - repo: https://github.com/timothycrosley/isort
     rev: 5.12.0
